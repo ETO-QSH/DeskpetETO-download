@@ -1,1 +1,1 @@
-# Desk-pet-for-ETO
+# Desk-pet-from-ETO
